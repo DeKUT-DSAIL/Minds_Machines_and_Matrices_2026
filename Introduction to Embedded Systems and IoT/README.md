@@ -13,7 +13,7 @@ Please download and install this tools.
     - Using your command prompt, navigate into the influx folder with all the contents and run `influx.exe`
     - Next command `show databases`
     - The output should be similar to Figure 1.
-    | ![influx1](/img/influx1.png) | 
+    | ![influx1](img/influx1.png) | 
     |:--:| 
     | *Figure 1: Influx Output 1* |
     - To create a database for the session run `create database outreach_2026`
