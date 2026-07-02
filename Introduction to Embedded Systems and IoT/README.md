@@ -64,7 +64,7 @@ Please create accounts for the following.
 For this practical session, We are going to utilize the DSA 2019 board (Environmental Sensor Board) shown on Figure 5.
 
 | ![board1](img/board.jpg) | 
-    |:--:| 
+|:--:| 
 |*Figure 5: DSA 2019 Environmental Sensors Board*|
 
 To set it up, we are going to follow the procedure provided in the following link: **[DSA 2019 board (Environmental Sensor Board)](https://github.com/janjongboom/dsa-firmware-2019)**.
