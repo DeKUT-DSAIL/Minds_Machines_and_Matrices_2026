@@ -39,7 +39,7 @@ Please download and install these tools.
     |:--:| 
     | *Figure 3: NodeRed Output when running* |
 
-    - To use NodeRed, run the local server link on your favourite browser: `http://127.0.0.1:1880`
+    - To use NodeRed, run the local server link on your favourite browser: `http://***.*.*.*:1880`
     - Figure 4, shows the output.
 
     | ![node3](img/node3.png) | 
@@ -68,5 +68,38 @@ For this practical session, We are going to utilize the DSA 2019 board (Environm
 |*Figure 5: DSA 2019 Environmental Sensors Board*|
 
 To set it up, we are going to follow the procedure provided in the following link: **[DSA 2019 board (Environmental Sensor Board)](https://github.com/janjongboom/dsa-firmware-2019)**.
+The item to change on the procedure is the compiler. Instead of using the **MbedCLI**, we are going to utilize the **[ARM Keil Studio](https://studio.keil.arm.com/auth/login)**
 
 ## NodeRed Setup Section 
+Node-RED is a flow-based, low-code development platform that allows users to visually create applications by connecting nodes for data collection, processing, and automation.
+- To run NodeRed (Already installed), open your **command prompt** and run the the node red command `node-red`
+- Copy and paste the localhost link provided on your browser and run it `http://***.*.*.*:1880`
+- After running the link, NodeRed will open, ready for use 
+
+## Scraping Data from The Things Network (TTN).
+
+At this level, you already have a TTN account so go ahead and create a TTN application using the steps below
+- On the console page click on `create an application.`
+- Since this is the first application you will create, you will be forwarded to `create application page.`
+- Under creating an application, you will be prompted to provide an application ID. Use the ID `outreach`. The same can apply to application name and description.
+- Click on `create application.`
+- After creation you will be able to access the application as shown on Figure 7.
+
+| ![ttn1](img/ttn1.png) | 
+|:--:| 
+|*Figure 6: TTN console when you are login in for the first time*|
+
+| ![ttn2](img/ttn2.png) | 
+|:--:| 
+|*Figure 5: DSA 2019 Environmental Sensors Board*|
+
+From this point, the steps to register the board and to get the data on NodeRed will be provided verbally by the instructor.
+
+## Setting up the Influxdb
+- To run the influx, navigate to you already-downloaded influx folder and double click on the `influxd.exe` and leave it running 
+- Open another command prompt terminal, navigate to the same folder and run `influx.exe`
+- Next command `show databases`. This will show you the databases present
+- The `outreach_2026` database should be there. Leave the terminal Running 
+- From this point foward, the integration steps on NodeRed will be provided by the instructor. 
+
+## **END**
