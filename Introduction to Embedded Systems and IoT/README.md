@@ -44,7 +44,7 @@ Please download and install these tools.
 
     | ![node3](img/node3.png) | 
     |:--:| 
-    | *Figure 3: NodeRed Terminal* |
+    | *Figure 4: NodeRed Terminal* |
 
 Please create accounts for the following.
 1. **The Things Network**
