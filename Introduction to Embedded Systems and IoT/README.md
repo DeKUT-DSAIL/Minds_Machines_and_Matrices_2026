@@ -6,7 +6,7 @@ In this practical session we will look into what Realtime operating systems (RTO
 ### Requirements for the Interactive Sessions 
 Please download and install these tools.
 
-1. Download and install *Tera Term*. Link: **[TeraTerm Link](https://github.com/DeKUT-DSAIL/Minds_Machines_and_Matrices_2026/blob/main/Introduction%20to%20Embedded%20Systems%20and%20IoT/assets/teraterm-4.92.exe)**.
+1. Download and install *Tera Term*. Link: **[TeraTerm Link](https://github.com/TeraTermProject/teraterm/releases/download/v5.6.1/teraterm-5.6.1-x64.exe)**.
 2. Download *Influxdb zip folder* from the following link. Link: **[InfluxDB](https://dl.influxdata.com/influxdb/releases/v1.12.4/influxdb-1.12.4-windows_amd64.zip)**.
     - Create a desktop folder - `influx`
     - Unzip the downloaded zip into this folder
