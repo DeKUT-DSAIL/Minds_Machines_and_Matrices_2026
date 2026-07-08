@@ -7,7 +7,8 @@ In this practical session we will look into what Realtime operating systems (RTO
 Please download and install these tools.
 
 1. Download and install *Tera Term*. Link: **[TeraTerm Link](https://github.com/TeraTermProject/teraterm/releases/download/v5.6.1/teraterm-5.6.1-x64.exe)**.
-2. Download *Influxdb zip folder* from the following link. Link: **[InfluxDB](https://dl.influxdata.com/influxdb/releases/v1.12.4/influxdb-1.12.4-windows_amd64.zip)**.
+2. Download and install *ST_link* drivers. Link: **[Assests Folder](https://github.com/DeKUT-DSAIL/Minds_Machines_and_Matrices_2026/tree/main/Introduction%20to%20Embedded%20Systems%20and%20IoT/assets)**
+3. Download *Influxdb zip folder* from the following link. Link: **[InfluxDB](https://dl.influxdata.com/influxdb/releases/v1.12.4/influxdb-1.12.4-windows_amd64.zip)**.
     - Create a desktop folder - `influx`
     - Unzip the downloaded zip into this folder
     - To check whether the download is working, double click the `influxd.exe` and leave it running 
@@ -21,7 +22,7 @@ Please download and install these tools.
 
     - To create a database for the session run `create database outreach_2026`
     - Run `show databases` again to check whether the database was created.
-3. Download and Install *NodeRed* using the following steps.
+4. Download and Install *NodeRed* using the following steps.
     - Install `Node.js` - Download the latest LTS version of Node.js from the official Node.js home page. Link: **[Node](https://nodejs.org/dist/v24.18.0/node-v24.18.0-x64.msi)**.
     - Run the downloaded MSI file
     - Once installed, open a command prompt and run the following command to ensure *Node.js* and *npm* are installed correctly. Command: `node --version && npm --version`
