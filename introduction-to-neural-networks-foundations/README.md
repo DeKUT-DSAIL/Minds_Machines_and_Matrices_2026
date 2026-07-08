@@ -30,10 +30,10 @@ This repository explores a wide range of topics, structured from foundational co
 This repository features two primary interactive Jupyter Notebooks that cover the core curriculum. You can run them directly in Google Colab:
 
 - **Introduction to Neural Networks** (`introduction_to_neural_networks.ipynb`): A comprehensive guide covering the basics, from perceptrons to backpropagation.
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mwangi-clinton/introduction-to-neural-networks/blob/main/introduction_to_neural_networks.ipynb)
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DeKUT-DSAIL/Minds_Machines_and_Matrices_2026/blob/main/introduction-to-neural-networks-foundations/introduction_to_neural_networks.ipynb)
 
 - **Introduction to Advanced Neural Networks** (`introduction_to_advanced_neural_networks.ipynb`): An exploration of advanced architectures such as CNNs and Transformers.
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mwangi-clinton/introduction-to-neural-networks/blob/main/introduction_to_advanced_neural_networks.ipynb)
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DeKUT-DSAIL/Minds_Machines_and_Matrices_2026/blob/main/introduction-to-neural-networks-foundations/introduction_to_advanced_neural_networks.ipynb)
 
 ---
 
