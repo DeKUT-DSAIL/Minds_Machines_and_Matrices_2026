@@ -102,5 +102,8 @@ From this point, the steps to register the board and to get the data on NodeRed 
 - Next command `show databases`. This will show you the databases present
 - The `outreach_2026` database should be there. Leave the terminal Running 
 - From this point foward, the integration steps on NodeRed will be provided by the instructor. 
+- **[Data Notebook)](https://colab.research.google.com/drive/1k6uN3bBoOFUCtJgLCxRZxKDkJ2oOlBSy?usp=sharing)**.
+
+
 
 ## **END**
