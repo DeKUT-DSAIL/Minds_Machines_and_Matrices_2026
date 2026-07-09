@@ -1,4 +1,4 @@
-# Introduction to Neural Networks
+# Introduction to Neural Networks Foundations.
 
 <p align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
 </p>
 
-Welcome to the **Introduction to Neural Networks** repository! This repository is designed to guide you through the fundamental and advanced concepts of artificial neural networks. It contains both theoretical materials and practical implementations.
+Welcome to the **Introduction to Neural Networks Foundations** repository! This repository is designed to guide you through the fundamental and advanced concepts of artificial neural networks. It contains both theoretical materials and practical implementations.
 
 ## Topics Covered
 
@@ -29,19 +29,13 @@ This repository explores a wide range of topics, structured from foundational co
 
 This repository features two primary interactive Jupyter Notebooks that cover the core curriculum. You can run them directly in Google Colab:
 
-- **Introduction to Neural Networks** (`introduction_to_neural_networks.ipynb`): A comprehensive guide covering the basics, from perceptrons to backpropagation.
+- **Introduction to Neural Networks Foundations** (`introduction_to_neural_networks.ipynb`): A comprehensive guide covering the basics, from perceptrons to backpropagation.
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DeKUT-DSAIL/Minds_Machines_and_Matrices_2026/blob/main/introduction-to-neural-networks-foundations/introduction_to_neural_networks.ipynb)
 
 - **Introduction to Advanced Neural Networks** (`introduction_to_advanced_neural_networks.ipynb`): An exploration of advanced architectures such as CNNs and Transformers.
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DeKUT-DSAIL/Minds_Machines_and_Matrices_2026/blob/main/introduction-to-neural-networks-foundations/introduction_to_advanced_neural_networks.ipynb)
 
 ---
-
-## Practical Implementations & Experiments
-
-*(Note: This repository is currently in its initial phase. The scripts and practical experiments are actively being developed.)*
-
-This repository is not just theoretical; it will serve as a practical workspace containing hands-on Python scripts and Jupyter Notebooks to help you solidify the concepts learned.
 
 ### What to Expect
 - **From-Scratch Implementations:** Building basic components (like perceptrons and backprop) using raw Python/NumPy to deeply understand the underlying math.
